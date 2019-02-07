@@ -1,0 +1,16 @@
+{
+  "name": "worker-service-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "master.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node master.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.397.0",
+    "hapi": "^18.0.1"
+  }
+}
